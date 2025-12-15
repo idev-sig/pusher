@@ -9,7 +9,7 @@
     "require": {
         "php": "^8.2 || ^8.3 || ^8.4",
         "guzzlehttp/guzzle": "^7.9.2",
-        "phpmailer/phpmailer": "^6.9.3",
+        "phpmailer/phpmailer": "^7.0.1",
         "textalk/websocket": "^1.5"
     },
     "license": "Apache-2.0",
